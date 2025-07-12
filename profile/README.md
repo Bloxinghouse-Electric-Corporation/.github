@@ -1,5 +1,5 @@
-# Bloxinghouse Electric Corporation
-This is the official Github Organization for the BEC ROBLOX group.
+# Westfield Simulation
+This is the official Github Organization for the WFS ROBLOX group.
 
 Our goal is to make highly realistic and interactive simulations on the ROBLOX platform.
 
